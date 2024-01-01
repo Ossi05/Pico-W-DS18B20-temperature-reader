@@ -4,7 +4,7 @@ This project is designed to seamlessly read temperature data from the DS18B20 te
 
 ### TODO
 
-- Documentation
+- Documentation and Setup Guide
 - Receive notification when Pi Pico W gets an IP address
 - Add more comments to files and naming variables better
 
